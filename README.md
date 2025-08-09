@@ -1,2 +1,2 @@
-# sandeep-portfolio
-sandeep-portfolio .Net Full Stack Developer
+# Mikkilineni-Sandeep-portfolio
+Mikkilineni-sSandeep-portfolio .Net Full Stack Developer
